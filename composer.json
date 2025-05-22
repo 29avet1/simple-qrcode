@@ -17,7 +17,7 @@
     },
     "require-dev": {
         "mockery/mockery": "^1.4.4",
-        "phpunit/phpunit": "^11.0",
+        "phpunit/phpunit": "^11.0"
     },
     "suggest": {
         "ext-imagick": "Allows the generation of PNG QrCodes.",
