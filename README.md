@@ -34,7 +34,7 @@ Documentation for Simple QrCode can be found on our [website.](http://www.simple
 
 ## Contributing
 
-Please submit all issues and pull requests to the [simplesoftwareio/simple-qrcode](https://github.com/simplesoftwareio/simple-qrcode) repository on the develop branch!
+Please submit all issues and pull requests to the [29avet1/simple-qrcode](https://github.com/29avet1/simple-qrcode) repository on the develop branch!
 
 ## License
 
